@@ -17,7 +17,7 @@ public class Nilai {
 			System.out.println("B");
 		} else if (nilai >=60) {
 			System.out.println("C");
-		} else if (nilai >=50); {
+		} else if (nilai >=50) {
 			System.out.println("D");
 		} else {
 			System.out.println("E");
